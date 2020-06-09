@@ -1,0 +1,27 @@
+plugins {
+    id 'java'
+}
+
+apply plugin: "java"
+
+
+group 'nma_autotests_junit'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+test {
+    useJUnitPlatform()
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    implementation "org.seleniumhq.selenium:selenium-java:3.141.59"
+    implementation 'junit:junit:4.13'
+    implementation 'org.projectlombok:lombok:1.18.12'
+    implementation 'org.springframework:spring-context-support:5.2.6.RELEASE'
+}

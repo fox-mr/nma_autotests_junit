@@ -1,0 +1,194 @@
+FOOTER_STATIC_PAGES_LIST_CLASSMAIN_PAGE:
+AVATAR_IN_HEADER_CLASS: .user-content__avatar
+ICON_FEMALE_CLASS: .icon-female
+ICON_TAG_CLASS: .icon-tag
+REMEMBER_ME_CHECKBOX_ON_LOGIN_POP_UP_CLASS: .authentication-form__checkbox
+FOOTER_STATIC_PAGES_LIST_CLASS: .terms a
+LINK_TO_TAGS_IN_LEFT_SIDE_MENU_CLASS: .see-all
+LOGIN_POP_UP_BUTTON_CLASS: .nav-bar__sign-in
+SEARCH_FIELD_IN_HEADER_CLASS: .nav-bar__search-field
+SEARCH_BUTTON_IN_HEADER_CLASS: .nav-bar__search-submit
+JAPAN_FLAG_IN_HEADER_CLASS: .languages__japan
+ENGLISH_FLAG_IN_HEADER_CLASS: .languages__english
+LOGOUT_ICON_CLASS: .icon-off
+H1_TEXT_CLASS: .header-group__title
+BADGE_TEXT_CLASS: .badge__text
+MAIN_PAGE_MOVIES_ARRAY_CLASS: .movies
+LINK_TO_ACTRESS_IN_LEFT_SIDE_MENU_ID: actresses-list
+SUBMIT_BUTTON_LOGIN_POP_UP_ID: login-form-submit
+LOGIN_POP_UP_MAIL_FIELD_ID: auth-mail-address-popup
+LOGIN_POP_UP_PASS_FIELD_ID: auth-password-popup
+REMIND_PASS_LINK_ON_POPUP_ID: qa-remind-password-popup
+BADGES_ELEMENTS_ARRAY_ON_MAIN_PAGE_CLASS: .badges a
+
+FIRST_TAG_FROM_LEFT_SIDE_LIST_XPATH: //span[@class='name']
+TEXT_TAG_FROM_LEFT_COLUMN_XPATH: //span[@class='name']
+
+FREE_REGISTRATION_PAGE:
+FREE_USER_NAME_FIELD_ID: member_name
+FREE_USER_EMAIL_FIELD_ID: member_mail_address
+FREE_USER_EMAIL_FIELD2_ID: member_mail_address2
+FREE_PASSWORD_FIELD_ID: member_password
+FREE_SITE_NAME_FIELD_ID: member_hp
+FREE_URL_FIELD_ID: member_url
+FREE_REGUATION_CHECKBOX_ID: regulations
+FREE_SUBSCRUBE_MAGAZINE_CHECKBOX_ID: subscribe_magazine
+FREE_SUBMIT_BUTTON_ID: button-signup-submit
+
+FREE_USER_NAME_ERROR_ID: member_name-error
+FREE_USER_EMAIL_ERROR_ID: member_mail_address-error
+FREE_USER_EMAIL_ERROR2_ID: member_mail_address2-error
+FREE_USER_PASS_ERROR_ID: member_password-error
+FREE_USER_SITE_URL_ERROR_ID: member_url-error
+FREE_REGULATION_ERROR_ID: regulations-error
+
+FREE_SUB_MEMBER_NAME_ID: qa-sign-up-confirm-member-name
+FREE_SUB_MEMBER_EMAIL_ID: qa-sign-up-confirm-member-mail
+FREE_SUB_SITE_NAME_ID: qa-sign-up-confirm-member-hp
+FREE_SUB_URL_ID: qa-sign-up-confirm-member-url
+
+FREE_SIGNUP_FORM_ID: free_signup_form
+
+PAID_REGISTRATION_PAGE:
+USER_NAME_FIELD_ID: member_name
+USER_EMAIL_FIELD_ID: member_mail_address
+USER_EMAIL_FIELD2_ID: member_mail_address2
+CARD_HOLDER_NAME_FIELD_ID: card_holder_name
+CARD_NUMBER_FIELD_ID: card_number
+EXP_MOTH_SELECTOR_ID: exp_month
+EXP_YEAR_SELECTOR_ID: exp_year
+CVV_FIELD_ID: card_cvv
+PHONE_NUMBER_FIELD_ID: phone_number
+REGUATION_CHECKBOX_ID: regulations
+SUBSCRUBE_MAGAZINE_CHECKBOX_ID: subscribe_magazine
+SUBMIT_BUTTON_ID: button-signup-submit
+
+USER_NAME_ERROR_ID: member_name-error
+USER_EMAIL_ERROR_ID: member_mail_address-error
+USER_EMAIL_ERROR2_ID: member_mail_address2-error
+CARD_HOLDER_NAME_ERROR_ID: card_holder_name-error
+CARD_NUMBER_ERROR_ID: card_number-error
+EXP_MONTH_ERROR_ID: exp_month-error
+EXP_YEAR_ERROR_ID: exp_year-error
+CVV_ERROR_ID: card_cvv
+PHONE_NUMBER_ERROR_ID: phone_number-error
+REGULATION_ERROR_ID: regulations-error
+PAYMENT_ERROR_CLASS: .paymentError
+
+PAID_PACK_ID: pack_3
+PAID_PACK_VALUE_ID: 3
+
+PAID_REGISTRATION_PAGE_SUBMIT:
+SUB_PAGE_HEADING_CLASS: .sign-up-confirmation__headding
+SUB_PAGE_FORM_TABLE_ID: qa-subscription-form
+SUB_PAGE_MEMBER_NAME_ID: qa-member-name
+SUB_PAGE_MEMBER_EMAIL_ID: qa-member-email-adress
+SUB_PAGE_PAYMENT_OPTION_ID: qa-payment-options
+SUB_PAGE_CARD_HOLDER_NAME_ID: qa-card-holder-name
+SUB_PAGE_CARD_NUMBER_ID: qa-card-number
+SUB_PAGE_EXP_DATE_ID: qa-expiration-date
+SUB_PAGE_CVV_ID: qa-card-cvv
+SUB_PAGE_PHONE_NUMBER_ID: qa-phone-number
+SUB_PAGE_MAGAZINE_ID: qa-subscription-magazine
+SUB_PAGE_CANCEL_SUBS_BUTTON_ID: qa-cancel-subsription-form
+SUB_PAGE_SUBMIT_SUBS_BUTTON_ID: qa-submit-subsription-form
+
+SUCCESS_PAID_REGISTARTION_PAGE:
+GENERATED_PASS_ID: password
+
+ACTRESSES_PAGE:
+ACTRESS_LIST_TABLE_CLASS: .filter-content__actresses-list
+ACTRESS_LIST_ARRAY_CLASS: .filter-content__actress
+CHARACTERS_TABLE_CLASS: .filter-navigation__alphabet
+OPEN_ALPHABETH_INDEX_BUTTON_CLASS: .filter-header__alphabetically
+OPEN_ALL_ACTRESSES_BUTTON_CLASS: .filter-header__show-all
+LETTERS_BUTTONS_ARRAY_CLASS: .filter-navigation__letter
+
+TAGS_PAGE:
+TAG_NAVI_BUTTONS_CLASS: .m-tags-nav
+ALPHABETICAL_SORTING_BUTTON_CLASS: .m-tags-nav-buttons--alphabetically
+TAGS_LIST_ARRAY_ON_TAGS_PAGE_CLASS: .m-tags--tag
+LAST_TAG_CLASS: .m-tags
+CLEAR_TAG_NAME_ON_TAG_PAGE_CLASS: .m-tags--tag a
+
+CONTACT_PAGE:
+CONTACT_PAGE_TEXT_CLASS: .caption
+
+FROM_FIELD_CONTACT_PAGE_ID: from
+MESSAGE_FIELD_CONTACT_PAGE_ID: content
+SUBMIT_BUTTON_CONTACT_PAGE_ID: sendFeedback
+
+DMCA_PAGE:
+DMCA_PAGE_TEXT_CLASS: .main-content
+
+LOGIN_PAGE:
+SUBMIT_BUTTON_LOGIN_PAGE_ID: .high
+MAIL_FIELD_ID: auth-mail-address
+PASS_FIELD_ID: auth-password
+
+USC_PAGE:
+USC_PAGE_TEXT_CLASS: .main-content
+
+TERMS_OF_USE_PAGE:
+TERMS_TEXT_CLASS: .main-content
+
+LAW_PAGE:
+LAW_PAGE_TEXT_CLASS: .header-center
+
+PRIVACY_POLICY_PAGE:
+PRIVACY_TEXT_CLASS: .main-content
+
+PATHS:
+ACTRESSES_PAGE_PATH: actresses/display/
+LOGIN_PAGE_PATH: login/
+CONTACT_PAGE_PATH: member/feedback/
+DMCA_PAGE_PATH: about/dmca/
+LAW_PAGE_PATH: about/law/
+PRIVACY_POLICY_PAGE_PATH: about/privacy/
+TAGS_PAGE_PATH: tags/
+USC_PAGE_PATH: about/usc/
+TERMS_OF_USE_PAGE_PATH: about/termsofuse/
+PAID_REG_PATH: signup/paid/
+FREE_REG_PATH: signup/free/
+MY_FAVS_PAGE_PATH: myfavourites/
+MY_PAGE_PATH: mypage/?sort=reviewed_on
+REMIND_PASS_PAGE_PATH: remindpassword/
+CHANGE_PASS_PAGE_REGEXP: changepassword\/\?pdc=
+CHANGE_PASS_PAGE_PATH: changepassword/?pdc=
+MEMBER_INFO_PAGE_PATH: member/info/
+MEMBER_LEAVE_PAGE_PATH: member/leave/
+CONFIRM_FREE_REGISTRATION_PATH: activate/?ac=
+
+
+PAGING:
+PREVIOUS_PAGE_ID: qa-previous-page
+LEFT_PAGE_ID: qa-left-page
+NEXT_LEFT_PAGE_ID: qa-next-left-page
+PREVIOUS_CURRENT_PAGE_ID: qa-previous-current-page
+CURRENT_PAGE_ID: qa-current-page
+NEXT_CURRENY_PAGE_ID: qa-next-current-page
+PREVIOUS_RIGHT_PAGE_ID: qa-previous-right-page
+RIGHT_PAGE_ID: qa-right-page
+NEXT_PAIGE_ID: qa-next-page
+
+REMIND_PASS_PAGE:
+MAIL_FIELD_ON_REMIND_PASS_PAGE_ID: mailr
+SUBMIT_BUTTON_ON_REMIND_PASS_PAGE_ID: button-remind-submit
+REMIND_PASS_LINK_ON_LOGIN_PAGE_ID: qa-remind-password-page
+ERROR_ON_REMIND_PASS_PAGE_CLASS: .error-hint
+SUCCESS_MESSAGE_CLASS: .line
+INPUT_PASS_FIRST_ID: password-first
+INPUT_PASS_SECOND_ID: password-second
+SUCCESS_PASS_CHANGED_MESSAGE_CLASS: .caption
+INVALID_PASS_FOR_RECOVERY_CLASS: .error-hint
+SUBMIT_BUTTON_ON_INPUT_NEW_PASS_PAGE_ID: button-change-submit
+
+LEAVE_MEMBER_PAGE:
+SUBMIT_LEAVE_BUTTON_CLASS: .high
+AGREEMENT_LEAVE_CHECKBOX_ID: agreementCheckbox
+SECOND_SUBMIT_LEAVE_BUTTON_CLASS: .high
+SUCCESS_LEAVE_MESSAGE_CLASS: .main-content
+
+ACTIVATE MEMBER:
+ACTIVATE_MEMBER_CLASS: caption
+
